@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Project\\ASM1_DATABASE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|d:\\visual studio project\\asm1_database\\asm1_database\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:asm1_database\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\asm1_database\\employee management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:asm1_database\\employee management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\asm1_database\\customer management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:asm1_database\\customer management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\asm1_database\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:asm1_database\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Employee Management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Employee Management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\asm1_database\\product_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:asm1_database\\product_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\asm1_database\\order management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:asm1_database\\order management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\asm1_database\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:asm1_database\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\asm1_database\\inventory management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:asm1_database\\inventory management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\asm1_database\\statistics report screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:asm1_database\\statistics report screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\asm1_database\\admin_doashoard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:asm1_database\\admin_doashoard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\asm1_database\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:asm1_database\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Product_Management.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Product_Management.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\MainForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\MainForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Inventory Management.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Inventory Management.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Product_Management.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Product_Management.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Order Management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Order Management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Admin_Doashoard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Admin_Doashoard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Employee Management.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Employee Management.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Admin_Doashoard.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Admin_Doashoard.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Product_Management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Product_Management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Customer Management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Customer Management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Properties\\Resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Properties\\Resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Inventory Management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Inventory Management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Statistics Report Screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Statistics Report Screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Customer Management.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Customer Management.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Inventory Management.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D92E94-2E7A-465E-A0EB-1251318D9216}|ASM1_DATABASE\\ASM1_DATABASE.csproj|solutionrelative:ASM1_DATABASE\\Inventory Management.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\MainForm.Designer.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:44:32.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Form1.Designer.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Form1.Designer.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:44:24.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Inventory Management.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Inventory Management.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Inventory Management.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Inventory Management.cs [Design]",
+              "RelativeToolTip": "ASM1_DATABASE\\Inventory Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:18:29.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Form1.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Form1.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Form1.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAnwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:33:39.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee Management.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Employee Management.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Employee Management.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Employee Management.cs [Design]",
+              "RelativeToolTip": "ASM1_DATABASE\\Employee Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T13:49:52.604Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer Management.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Customer Management.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Customer Management.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Customer Management.cs [Design]",
+              "RelativeToolTip": "ASM1_DATABASE\\Customer Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:29:02.138Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\App.config",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\App.config",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\App.config",
+              "RelativeToolTip": "ASM1_DATABASE\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-20T14:34:50.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\MainForm.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\MainForm.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\MainForm.cs [Design]",
+              "RelativeToolTip": "ASM1_DATABASE\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:01:55.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order Management.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Order Management.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Order Management.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Order Management.cs [Design]",
+              "RelativeToolTip": "ASM1_DATABASE\\Order Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:50:09.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product_Management.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Product_Management.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Product_Management.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Product_Management.cs [Design]",
+              "RelativeToolTip": "ASM1_DATABASE\\Product_Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:39:00.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Program.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Program.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Program.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:33:51.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Statistics Report Screen.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Statistics Report Screen.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Statistics Report Screen.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Statistics Report Screen.cs [Design]",
+              "RelativeToolTip": "ASM1_DATABASE\\Statistics Report Screen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:47:27.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin_Doashoard.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Admin_Doashoard.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Admin_Doashoard.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Admin_Doashoard.cs [Design]",
+              "RelativeToolTip": "ASM1_DATABASE\\Admin_Doashoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:02:09.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product_Management.resx",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Product_Management.resx",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Product_Management.resx",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Product_Management.resx",
+              "RelativeToolTip": "ASM1_DATABASE\\Product_Management.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-20T14:09:08.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\MainForm.resx",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\MainForm.resx",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\MainForm.resx",
+              "RelativeToolTip": "ASM1_DATABASE\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-20T14:22:23.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Inventory Management.resx",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Inventory Management.resx",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Inventory Management.resx",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Inventory Management.resx",
+              "RelativeToolTip": "ASM1_DATABASE\\Inventory Management.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-20T14:06:15.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product_Management.Designer.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Product_Management.Designer.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Product_Management.Designer.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Product_Management.Designer.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Product_Management.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:10:16.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Form1.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Form1.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Form1.cs [Design]",
+              "RelativeToolTip": "ASM1_DATABASE\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:22:21.891Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee Management.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Employee Management.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Employee Management.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Employee Management.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Employee Management.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:09:03.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order Management.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Order Management.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Order Management.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Order Management.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Order Management.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:06:58.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin_Doashoard.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Admin_Doashoard.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Admin_Doashoard.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Admin_Doashoard.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Admin_Doashoard.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:11:59.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Employee Management.Designer.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Employee Management.Designer.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Employee Management.Designer.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Employee Management.Designer.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Employee Management.Designer.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAADwv+cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:13:54.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Admin_Doashoard.Designer.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Admin_Doashoard.Designer.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Admin_Doashoard.Designer.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Admin_Doashoard.Designer.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Admin_Doashoard.Designer.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAD4v7oAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:43:20.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\MainForm.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\MainForm.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\MainForm.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\MainForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAApwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:05:40.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product_Management.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Product_Management.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Product_Management.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Product_Management.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Product_Management.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:00:05.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Customer Management.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Customer Management.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Customer Management.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Customer Management.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Customer Management.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:35:27.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Properties\\Resources.resx",
+              "RelativeToolTip": "ASM1_DATABASE\\Properties\\Resources.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-19T03:56:04.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T15:27:51.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Inventory Management.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Inventory Management.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Inventory Management.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Inventory Management.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Inventory Management.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:41:46.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Statistics Report Screen.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Statistics Report Screen.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Statistics Report Screen.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Statistics Report Screen.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Statistics Report Screen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:58:15.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Customer Management.Designer.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Customer Management.Designer.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Customer Management.Designer.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Customer Management.Designer.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Customer Management.Designer.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAcwI0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:36:31.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Inventory Management.Designer.cs",
+              "DocumentMoniker": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Inventory Management.Designer.cs",
+              "RelativeDocumentMoniker": "ASM1_DATABASE\\Inventory Management.Designer.cs",
+              "ToolTip": "D:\\Visual Studio Project\\ASM1_DATABASE\\ASM1_DATABASE\\Inventory Management.Designer.cs",
+              "RelativeToolTip": "ASM1_DATABASE\\Inventory Management.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAcwGQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:42:30.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
